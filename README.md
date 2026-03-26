@@ -2,7 +2,7 @@
 
 **Data Scientist | 🧠 Credit Risk Modeler | ML Engineer | Statistical Thinker**
 
-📧 [Email](mailto:reddyakshith20@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/akshithreddybairu) • 🐙 [GitHub](https://github.com/AkshithReddy-B) • ☁️ [Azure Certified](https://www.microsoft.com/)
+📧 [Email](mailto:reddyakshith20@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/akshithreddybairu) • 🐙 [GitHub](https://github.com/AkshithReddy-B) • ☁️ [Azure Certified](https://learn.microsoft.com/en-us/users/akshithreddybairu-6018/credentials/8cdb3ba5bf570a79)
 
 ---
 
