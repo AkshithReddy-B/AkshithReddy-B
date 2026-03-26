@@ -81,9 +81,9 @@ A reminder that healthcare data is just another dataset waiting to be modeled re
 
 ## 📜 Certifications
 
-- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/)
-- [AWS Academy Data Engineering](https://aws.amazon.com/) — Dec 2024
-- [AWS Academy Cloud Foundations](https://aws.amazon.com/) — Jun 2023
+- [Microsoft Certified: Azure Data Scientist Associate]([https://www.microsoft.com/](https://learn.microsoft.com/en-us/users/akshithreddybairu-6018/credentials/8cdb3ba5bf570a79?ref=https%3A%2F%2Fwww.overleaf.com%2F))
+- [AWS Academy Data Engineering] — Dec 2024
+- [AWS Academy Cloud Foundations] — Jun 2023
 
 ---
 
